@@ -1,0 +1,6 @@
+iF Customer = iron 
+      give 10% discount
+iF Customer = Gold 
+      give 20% discount
+iF Customer = Diamond 
+      give 50% discount
