@@ -1,0 +1,6 @@
+iF Customer = iron 
+      show.IronWindow
+iF Customer = Gold 
+      show.GoldWindow
+iF Customer = Diamond 
+      show.DiamondWindow
